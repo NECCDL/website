@@ -1,5 +1,5 @@
 en:
-  languageName: English
+  label: English
   weight: 1
   ### copyright (markdown can be used) ###
   copyright: " "
@@ -48,10 +48,24 @@ en:
     #   post: "Learn how to impact the next generation of cybersecurity professionals"
     #   parent: "support"
 
-    - identifier: "neccdc-2026"
-      name: "NECCDC 2026"
-      url: "/history/2026/"
+    - identifier: "resources"
+      name: "Resources"
       weight: 4
+
+    - identifier: "neccdc"
+      name: "NECCDC"
+      url: "/docs/neccdc"
+      weight: 1
+      post: "Documentation about the competition"
+      parent: "resources"
+
+    - identifier: "volunteer"
+      name: "Volunteer"
+      url: "/volunteer/"
+      weight: 2
+      post: "Get involved with League"
+      parent: "resources"
+
 
     - identifier: "history"
       name: "History"

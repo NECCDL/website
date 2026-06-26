@@ -1,8 +1,8 @@
-FROM node:latest AS build
+FROM node:26 AS build
 
 ARG WORKDIR=/app
 ARG BUILD_URL=http://localhost:8080
-ARG HUGO_VERSION=0.154.2 \
+ARG HUGO_VERSION=0.159.1 \
     DART_SASS_VERSION=1.97.1
 
 WORKDIR $WORKDIR
