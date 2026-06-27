@@ -31,8 +31,6 @@ npx -y pagefind --site public
 
 - https://github.com/cncf/dot-org-hugo-theme/
     - https://dot-org-hugo-theme-demo.netlify.app/demo-page/
-- https://github.com/deepcausality-rs/sites
-  - https://beta-7j9.pages.dev/
 - https://github.com/todogroup/todogroup.org/
   - https://todogroup.org/
 

@@ -1,0 +1,19 @@
+services:
+  hugo:
+    container_name: neccdl-hugo
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: build
+    platform: linux/amd64
+    entrypoint: hugo
+    command:
+      - server
+      - -D
+      - --bind
+      - 0.0.0.0
+    ports:
+      - "1313:1313"
+    volumes:
+      - ./:/app
+    restart: unless-stopped

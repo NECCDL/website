@@ -10,5 +10,6 @@ tmp
 .gitmodules
 .hugo_build.lock
 Dockerfile
+docker-compose.yaml
 hugo_stats.json
 README.md

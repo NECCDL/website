@@ -17,11 +17,11 @@ Representatives who serve as competition officials, moderators, and rule enforce
 - Supply and score Blue Team tasks in the form of competition injects
 - Adjudicate the scoring for the competition
 
-#### Chief Judge
+### Chief Judge
 Responsible for final decisions concerning scoring.
 The chief judge has no active or historical, professional or personal affiliation with any school in the league.
 
-#### Moderators
+### Moderators
 - Undertake moderator training offered by NECCDC
 - Gain familiarity with using the required communication tools (e.g., Competition Discord)
 - Submit questions and requests from the blue team members to the designated communication channels
@@ -32,7 +32,7 @@ The chief judge has no active or historical, professional or personal affiliatio
 ## [Black Team]({{< ref "black-team" >}})
 Black Team members are our competition technicians. They develop, deploy, and maintain a unique competition environment every year. They also configure remote access, Discord, the service scoring.
 
-#### Gray Team
+### Gray Team
 Helps write technical injects alongside the White Team.
 
 ## Red Team
