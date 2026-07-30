@@ -8,6 +8,8 @@ We welcome all interested institutions geographically located in the Northeast r
 
 In order to compete in NECCDC, a team will need a staff or faculty member from its institution to represent the team, often referred to as a "coach". A coach serves as the liaison between the team and competition officials and will need to complete the national registration, and pay the annual League membership fee.
 
+Travel costs, team gaps, or uncertainty, we understand. The Exhibition Team option allows you to participate only in the Qualifier competition for $75. It’s a low-cost way to gain experience, test your skills, and prepare for future seasons. More information can be [found here](/docs/neccdc/neccdc-exhibition-team)
+
 ---
 
 {{< spacer 25 >}}
@@ -31,6 +33,7 @@ In order to compete in NECCDC, a team will need a staff or faculty member from i
                                   background-repeat: no-repeat; background-position: right 10px center;">
           <option value="New Team Membership" style="color: #333; background-color: #f3f3f3;">New Team Membership $100.00 USD</option>
           <option value="Regular Membership" style="color: #333; background-color: #f3f3f3;">Regular Membership $250.00 USD</option>
+          <option value="Exhibition Team (Non-member)" style="color: #333; background-color: #f3f3f3;">NECCDC Exhibition Team $75.00 USD</option>
         </select>
         <input type="hidden" name="currency_code" value="USD">
         <button type="submit" class="button" name="submit" style="margin-top: 10px; border: 0; padding: 20px 50px; color: white; font-size: 16px; cursor: pointer;">
