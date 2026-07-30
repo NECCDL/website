@@ -32,5 +32,5 @@ An exhibition team is recommended for the following:
 - Students cannot be swapped or have overlap between the exhibition and a standard team
 
 
-### Toned Down Rules
+### Reduced Rules Requirements
 - No need for in-room moderator during qualifiers

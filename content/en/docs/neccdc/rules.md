@@ -11,7 +11,7 @@ https://www.nationalccdc.org/rules.html
 
 ### National Rules Amendments
 
-#### 2. team Composition
+#### 2. Team Composition
 - Team rosters must be submitted before published deadlines, and all team members must meet all stated eligibility requirements.
 - Any changes to the team rosters can be made before the NECCDC Qualifier event, and must be communicated with Nationals and NECCDL (contact@neccdl.org) at least 24 hours in advance of the competition.
 - During the NECCDC Regional, any eight (8) members from the submitted roster can compete on day 1 and a different set of eight (8) on day 2.
