@@ -6,7 +6,7 @@ includeInList: false
 
 NECCDC subscribes to the National CCDC Rules, which all teams must follow.
 
-https://www.nationalccdc.org/rules.html
+https://www.nationalccdc.org/rules.html [^first]
 
 
 ### National Rules Amendments
@@ -33,3 +33,5 @@ https://www.nationalccdc.org/rules.html
 2. Existing files (ex. config file) or images cannot be downloaded/extracted.
 3. Screenshots are allowed, and note taking is encouraged.
 4. System redeployments are not permitted.
+
+[^first]: [Backup of nationals rules](nationals_rules.md)
