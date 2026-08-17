@@ -86,7 +86,7 @@ NECCDC would not be possible without the generous support of our sponsors. By be
 
 Over the course of the competition teams will need access to an array of documents containing information that will be important for their participation and practice. This page is a collection of those documents.
 
-Source code for the creation of the 2024 competitions can be found in our GitHub [neccdc-2024-public](https://github.com/NE-Collegiate-Cyber-Defense-League/neccdc-2024-public/)
+Source code for the creation of the 2024 competitions can be found in our GitHub [neccdc-2024-public](https://github.com/NECCDL/neccdc-2024-public/)
 
 Read a blog post on Black Team infrastructure development: [infrasec.sh](https://infrasec.sh/post/neccdc-2024/)
 

@@ -43,7 +43,7 @@ After logging out, you will lose access to any roles granted by the NECCDL verif
 
 2. What is the source code for the verification bot?
 
-   Source code is available on [GitHub](https://github.com/NE-Collegiate-Cyber-Defense-League/discord-verification).
+   Source code is available on [GitHub](https://github.com/NECCDL/discord-verification).
 
 3. Who can I contact for help with verification?
     If you need assistance with the verification process, please reach out to `cyb3rjak3.` via the NECCDL Discord Server.
