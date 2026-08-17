@@ -87,7 +87,7 @@ Sponsors have a chance for exclusive resume access, participation in the competi
 
 ## Resources
 
-Source code for the creation of the 2023 competitions can be found in our GitHub [neccdc-2023-public](https://github.com/NE-Collegiate-Cyber-Defense-League/neccdc-2023-public/)
+Source code for the creation of the 2023 competitions can be found in our GitHub [neccdc-2023-public](https://github.com/NECCDL/neccdc-2023-public/)
 
 Additional the source code for the regionals inject #13 can be [found here](https://github.com/andrew-aiken/neccdl-2023-R13-webapp).
 

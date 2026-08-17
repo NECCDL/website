@@ -14,7 +14,7 @@ images: ["/images/light-logo.png"]
 github_edit: "Edit this page"
 
 github:
-  repo_url: "https://github.com/NE-Collegiate-Cyber-Defense-League/website/blob/main"
+  repo_url: "https://github.com/NECCDL/website/blob/main"
   show_edit_link: true
 
 social_links:
@@ -23,13 +23,13 @@ social_links:
   discord: "https://discord.gg/rJn6DxwFTC"
   facebook: ""
   flickr: ""
-  github: "https://github.com/NE-Collegiate-Cyber-Defense-League/"
+  github: "https://github.com/NECCDL/"
   instagram: ""
   landscape: ""
   linkedin: "https://www.linkedin.com/company/neccdl"
   mastodon: "https://infosec.exchange/@neccdl"
   pinterest: ""
-  rss: "https://github.com/NE-Collegiate-Cyber-Defense-League/website/commits/main/"
+  rss: "https://github.com/NECCDL/website/commits/main/"
   slack: ""
   stackoverflow: ""
   threads: ""
