@@ -82,6 +82,8 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 
 ## Resources
 
+Source code for the creation of the 2026 competitions can be found in our GitHub [neccdc-2026-public](https://github.com/NECCDL/neccdc-2026-public/)
+
 {{< resources style="code" sort="desc" />}}
 
 ### Team Resource Submissions
