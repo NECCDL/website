@@ -14,8 +14,8 @@ The Exhibition Team option provides a low-commitment way to participate only in 
 
 An exhibition team is recommended for the following:
 - Institutions new to NECCDC
-- Two-year schools or community colleges
-- Cannot field a full team roster
+- Programs with limited competition experience or resources
+- Cannot field a team roster
 
 
 ### Requirements and Limitations
