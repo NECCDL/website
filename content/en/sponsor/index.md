@@ -27,12 +27,12 @@ Sponsorship funding can be made directly through PayPal, or contact sponsor@necc
     <select name="os0" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 20px;
                               background-color: #ffffff; color: #333; font-weight: bold; text-align: center;
                               background-repeat: no-repeat; background-position: right 10px center;">
-      <option value="Vibranium" style="color: #333; background-color: #f3f3f3;">Vibranium $30,000.00 USD</option>
-      <option value="Platinum" style="color: #333; background-color: #f3f3f3;">Platinum $20,000.00 USD</option>
-      <option value="Gold" selected="selected" style="color: #333; background-color: #f3f3f3;">Gold $10,000.00 USD</option>
-      <option value="Silver" style="color: #333; background-color: #f3f3f3;">Silver $5,000.00 USD</option>
-      <option value="Bronze" style="color: #333; background-color: #f3f3f3;">Bronze $2,000.00 USD</option>
-      <option value="Supporter" style="color: #333; background-color: #f3f3f3;">Supporter $500.00 USD</option>
+      <option value="Vibranium" style="color: #333; background-color: #f3f3f3;">Vibranium $20,000 USD</option>
+      <option value="Platinum" style="color: #333; background-color: #f3f3f3;">Platinum $15,000 USD</option>
+      <option value="Gold" selected="selected" style="color: #333; background-color: #f3f3f3;">Gold $10,000 USD</option>
+      <option value="Silver" style="color: #333; background-color: #f3f3f3;">Silver $5,000 USD</option>
+      <option value="Bronze" style="color: #333; background-color: #f3f3f3;">Bronze $2,000 USD</option>
+      <option value="Supporter" style="color: #333; background-color: #f3f3f3;">Supporter $500 USD</option>
     </select>
     <input type="hidden" name="currency_code" value="USD">
     <input class="button" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" 
@@ -50,7 +50,7 @@ Sponsorship funding can be made directly through PayPal, or contact sponsor@necc
 {{< responsive_table >}}
 |                                                                   | Supporter         | Patron            | Bronze            | Silver                 | Gold                                            | Platinum                                        | Vibranium                                       |
 | ----------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ---------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| **Cost**                                                          | $500              | $1,000            | $2,000            | $5,000                 | $10,000                                         | $20,000                                         | $30,000                                         |
+| **Cost**                                                          | $500              | $1,000            | $2,000            | $5,000                 | $10,000                                         | $15,000                                         | $20,000                                         |
 | **Logo on website and official competition documents**            | {{< check >}}     | {{< check >}}     | {{< check >}}     | {{< check >}}          | {{< check >}}                                   | {{< check >}}                                   | {{< check >}}                                   |
 | **Invitations to recruiting dinner**                              | One               | One               | Two               | Three                  | Four                                            | Six                                             | Eight                                           |
 | **Student resume booklet**                                        | Regionals         | Regionals         | Regionals         | Regionals & Qualifiers | Regionals & Qualifiers                          | Regionals & Qualifiers                          | Regionals & Qualifiers                          |
