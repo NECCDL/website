@@ -1,7 +1,7 @@
 ---
 title: "NECCDC 2025"
 description: Competitors worked to defend a healthcare company by minimizing third-party risk and securing systems against cyber threats. The competition was hosted by Roger Williams University and would not have been possible without their support.
-weight: 2
+weight: 994
 date: 2024-10-05
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "NECCDC 2026"
 description: Teams take the responsibility of securing and modernizing the infrastructure of managed service providers and their clients' infrastructure. Without the partnership of Middlesex Community College, this year's competition would not have been possible.
-weight: 1
+weight: 993
 date: 2025-09-19
 ---
 
@@ -11,7 +11,7 @@ date: 2025-09-19
 Presented by
 {{</intro>}}
 
-{{< image src="images/middlesex-community-college.png" alt="Middlesex Community College logo" width="80%" height="auto" link="https://www.middlesex.edu/" >}}
+{{< image src="images/middlesex-community-college.png" alt="Middlesex Community College Logo" width="80%" height="auto" link="https://www.middlesex.edu/" >}}
 
 ---
 
@@ -31,7 +31,7 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | **Gold Sponsors** |
 | - |
 | {{< image alt="AWS" src="/images/sponsors/aws.svg" width="12vw" height="auto" link="https://aws.amazon.com/" >}} |
-| {{< image src="images/middlesex-community-college.png" alt="Middlesex Community College" width="30vw" height="auto" link="https://www.middlesex.edu/" >}} |
+| {{< image src="/images/league-members/middlesex-community-college.png" alt="Middlesex Community College" width="30vw" height="auto" link="https://www.middlesex.edu/" >}} |
 
 | **Silver Sponsors** |
 | - |
@@ -61,7 +61,7 @@ If you're interested in supporting us, check out the [sponsor page]({{< ref "spo
 | **Regionals** |
 | - |
 | {{< image src="/images/league-members/champlain.jpg" alt="Champlain" width="23vw" height="auto" link="https://www.champlain.edu/">}} |
-| {{< image src="images/middlesex-community-college.png" alt="Middlesex Community College" width="32vw" height="auto" link="https://www.middlesex.edu/">}} |
+| {{< image src="/images/league-members/middlesex-community-college.png" alt="Middlesex Community College" width="32vw" height="auto" link="https://www.middlesex.edu/">}} |
 | {{< image src="/images/league-members/pace.png" alt="Pace University" width="14vw" height="auto" link="https://www.pace.edu/">}} |
 | {{< image src="/images/league-members/st_johns.png" alt="St Johns" width="20vw" height="auto" link="https://www.stjohns.edu/">}} |
 | {{< image src="/images/league-members/umass_amherst.png" alt="University of Massachusetts Amherst" width="25vw" height="auto" link="https://www.umass.edu/">}} |
