@@ -1,0 +1,3 @@
+{{- $question := .Get "q" | default (.Get 0) -}}
+<p><strong>Q:</strong> {{ $question }}<br>
+<strong>A:</strong> {{ .Page.RenderString (dict "display" "inline") .Inner }}</p>

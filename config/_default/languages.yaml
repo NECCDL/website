@@ -20,6 +20,20 @@ en:
       url: "/about/"
       weight: 1
 
+    - identifier: "neccdc"
+      name: "NECCDC"
+      url: "/docs/neccdc"
+      weight: 1
+      post: "Documentation about the competition"
+      parent: "about"
+
+    - identifier: "volunteer"
+      name: "Volunteer"
+      url: "/volunteer/"
+      weight: 2
+      post: "Get involved with League"
+      parent: "about"
+
     - identifier: "join"
       name: "Join"
       url: "/join/"
@@ -30,42 +44,10 @@ en:
       url: "/sponsor/"
       weight: 3
 
-    # - identifier: "support"
-    #   name: "Support"
-    #   url: "/support/"
-    #   weight: 3
-
-    # - identifier: "support-sponsor"
-    #   name: "Sponsor"
-    #   url: "/support/sponsor/"
-    #   weight: 1
-    #   post: "Promote your organization to the brightest minds in cybersecurity"
-    #   parent: "support"
-    # - identifier: "support-volunteer"
-    #   name: "Volunteer"
-    #   url: "/support/volunteer/"
-    #   weight: 2
-    #   post: "Learn how to impact the next generation of cybersecurity professionals"
-    #   parent: "support"
-
-    - identifier: "resources"
-      name: "Resources"
+    - identifier: "history-2027"
+      name: "NECCDC 2027"
+      url: "/history/2027/"
       weight: 4
-
-    - identifier: "neccdc"
-      name: "NECCDC"
-      url: "/docs/neccdc"
-      weight: 1
-      post: "Documentation about the competition"
-      parent: "resources"
-
-    - identifier: "volunteer"
-      name: "Volunteer"
-      url: "/volunteer/"
-      weight: 2
-      post: "Get involved with League"
-      parent: "resources"
-
 
     - identifier: "history"
       name: "History"
@@ -75,41 +57,41 @@ en:
     - identifier: "history-2026"
       name: "NECCDC 2026"
       url: "/history/2026/"
-      weight: 1
+      weight: 993
       parent: "history"
     - identifier: "history-2025"
       name: "NECCDC 2025"
       url: "/history/2025/"
-      weight: 2
+      weight: 993
       parent: "history"
     - identifier: "history-2024"
       name: "NECCDC 2024"
       url: "/history/2024/"
-      weight: 3
+      weight: 994
       parent: "history"
     - identifier: "history-2023"
       name: "NECCDC 2023"
       url: "/history/2023/"
-      weight: 4
+      weight: 995
       parent: "history"
     - identifier: "history-2022"
       name: "NECCDC 2022"
       url: "/history/2022/"
-      weight: 5
+      weight: 996
       parent: "history"
     - identifier: "history-2021"
       name: "NECCDC 2021"
       url: "/history/2021/"
-      weight: 6
+      weight: 997
       parent: "history"
     - identifier: "history-2020"
       name: "NECCDC 2020"
       url: "/history/2020/"
-      weight: 7
+      weight: 998
       parent: "history"
     - identifier: "history-historic"
       name: "Historic"
       url: "/history/historic/"
       post: Results of competitions before written records
-      weight: 99
+      weight: 999
       parent: "history"
