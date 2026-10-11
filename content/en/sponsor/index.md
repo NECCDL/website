@@ -19,29 +19,22 @@ Sponsorship funding can be made directly through PayPal, or contact sponsor@necc
 {{< spacer 5 >}}
 
 {{< rawhtml >}}
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_target" style="text-align: center; justify-content: center; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: #f9f9f9; max-width: 500px; margin: 20px auto;">
-  <input type="hidden" name="cmd" value="_s-xclick">
-  <input type="hidden" name="hosted_button_id" value="3QASYDNHNYKMS">
-    <input type="hidden" name="on0" value="NECCDC Sponsorship Levels">
-    <h4>NECCDC Sponsorship Levels</h4>
-    <select name="os0" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; margin-bottom: 20px;
-                              background-color: #ffffff; color: #333; font-weight: bold; text-align: center;
-                              background-repeat: no-repeat; background-position: right 10px center;">
-      <option value="Vibranium" style="color: #333; background-color: #f3f3f3;">Vibranium $20,000 USD</option>
-      <option value="Platinum" style="color: #333; background-color: #f3f3f3;">Platinum $15,000 USD</option>
-      <option value="Gold" selected="selected" style="color: #333; background-color: #f3f3f3;">Gold $10,000 USD</option>
-      <option value="Silver" style="color: #333; background-color: #f3f3f3;">Silver $5,000 USD</option>
-      <option value="Bronze" style="color: #333; background-color: #f3f3f3;">Bronze $2,000 USD</option>
-      <option value="Supporter" style="color: #333; background-color: #f3f3f3;">Supporter $500 USD</option>
-    </select>
-    <input type="hidden" name="currency_code" value="USD">
-    <input class="button" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" 
-            alt="PayPal - The safer, easier way to pay online!" style="margin-top: 20px; margin-bottom: 20px; padding: 10px 30px;">
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1"> <!-- Tracking pixel -->
-</form>
-
+<div class="cards columns-1 custom-form" style="display: block; margin: 20px auto; max-width: 500px;">
+  <div class="card" style="padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: var(--white);">
+    <div style="text-align: center;">
+      <script
+        src="https://www.paypal.com/sdk/js?client-id=BAAl-Qu4nd66FAjYZPqJb1Em87Luc5p0TC4FYjlxTbmPxELpdYTb46cj12ZnLPxhxcAKyztnqruq5Dsr_g&components=hosted-buttons&enable-funding=venmo&currency=USD">
+      </script>
+      <div id="paypal-container-CTCG2266VR7ZN"></div>
+      <script>
+        paypal.HostedButtons({
+          hostedButtonId: "CTCG2266VR7ZN",
+        }).render("#paypal-container-CTCG2266VR7ZN")
+      </script>
+    </div>
+  </div>
+</div>
 {{< /rawhtml >}}
-
 
 {{< spacer 10 >}}
 
