@@ -4,7 +4,7 @@ description: "NECCDL Black Team Resources"
 includeInList: false
 ---
 
-If you have questions about or infrastructure reach out in [Discord]({{< social_link discord >}}) or interested in volunteering email blackteam@neccdl.org
+If you have questions about our infrastructure, reach out in [Discord]({{< social_link discord >}}); if you're interested in volunteering email blackteam@neccdl.org
 
 ## Expectations
 
@@ -33,7 +33,7 @@ While you don’t need to be an expert in all areas, a willingness to learn or e
 ## Supporting Tools:
 
 - **Git** – for version control (GitHub)
-- **Slack** – Communication thought the season with black/red/white teams
+- **Slack** – Communication throughout the season with black/red/white teams
 - **Discord** – Used during the competition for blue team communication
 
 ## Requirements
@@ -47,4 +47,4 @@ If you are interested but do not meet this requirement, please still reach out, 
   - Sharing competition infrastructure or setup with a team.
   - Answering questions or providing information that cannot be derived directly from public information (e.g., competition rules, challenge descriptions, or publicly accessible League resources).
   - If a team asks you a question directly, you should bring it up internally to the black team. If deemed important, an answer will be shared over public channels.
-- Violations of these rule may result in the disqualification or league ban of the team involved, and you will be removed from your black team role.
+- Violations of these rules may result in the disqualification or league ban of the team involved, and you will be removed from your black team role.
