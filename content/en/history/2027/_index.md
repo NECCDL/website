@@ -19,7 +19,7 @@ Hosted by
 | ----------------------------------------------------------- | ------------------------------------------- |
 | **Membership Opens**                                        | Friday, ~9 Oct, 2026                        |
 | **Registration Opens**                                      | TDB                                         |
-| **Registration, Membership Deadline and Repository Freeze** | Monday, 22 Jan, 2027                        |
+| **Registration, Membership Deadline and Repository Freeze** | Friday, 22 Jan, 2027                        |
 | **Qualifier Beta**                                          | Saturday, 30 Jan, 2027                      |
 | **Qualifier**                                               | Saturday, 6 Feb, 2027                       |
 | **Regional**                                                | Saturday, 20 March - Monday, 22 March, 2027 |
