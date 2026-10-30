@@ -24,6 +24,33 @@ Hosted by
 | **Qualifier**                                               | Saturday, 6 Feb, 2027                       |
 | **Regional**                                                | Saturday, 20 March - Monday, 22 March, 2027 |
 
+## Possible Technology
+
+#### Operating Systems
+
+- FreeBSD
+- RHEL // Rocky
+- Ubuntu
+- Windows Server
+
+#### Protocols
+
+- FTP
+- HTTP
+- IMAP
+- SSH
+- VoIP
+
+#### Services
+
+- Automation
+- Bastion
+- Containers
+- Credential Management
+- Database
+- Object Storage
+- SIEM
+
 ## Sponsors
 
 We are currently looking for sponsors for NECCDC 2027, if you're interested check out our [sponsor page]({{< ref "sponsor" >}}) or email us at sponsor@neccdl.org.
