@@ -23,6 +23,11 @@ Throughout the event, management (White Team) issues business tasks called injec
 Examples include writing a security policy, adding a user, deploying a new service, producing an inventory, or briefing executives.
 Injects are time-limited and scored on quality and completeness.
 
+#### Inject Tip
+The biggest thing is to make sure you're READING THE INJECT. Make note of exactly the deliverables it is asking for, and make sure to provide evidence of the work you completed. Ex. If an inject asks you to set up a new GPO *and* test it, make sure to provide screenshots of the GPO itself *AND* it succesfully working.
+
+Here is an [example](docs/neccdc/neccdc-101/example_neccdc_inject.pdf) of a well-written inject using a commonly used inject prompt (hint hint).
+
 ### Defend Against the Red Team
 
 A team of professional penetration testers attacks every team's network throughout the competition.
