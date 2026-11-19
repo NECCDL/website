@@ -6,7 +6,7 @@ date: 1970-01-01
 
 The Northeast Collegiate Cyber Defense League, Inc., is a 501(c)(3) registered non-profit organization.
 
-The NECCDL relies on the support of league member institutions and sponsors to provide administrative and organizational services for regional competitions. We would welcome your non-profit donation through PayPal.
+The NECCDL relies on the support of league member institutions and sponsors to provide administrative and organizational services for regional competitions. We would welcome your non-profit donation through Zeffy.
 
 For more information on becoming a League supporter, please get in touch with us at sponsor@neccdl.org
 
@@ -16,12 +16,8 @@ Interested in volunteering? Check out [our volunteer page]({{< ref "volunteer" >
 
 {{< rawhtml >}}
 <div style="text-align: center;">
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="button" style="padding: 14px 40px; margin-top: 20px; margin-bottom: 30px;">
-    <input type="hidden" name="cmd" value="_s-xclick" />
-    <input type="hidden" name="hosted_button_id" value="RDPXHXQVN8MT2" />
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-  </form>
+  <style>.zeffy-donate{display:inline-block;text-align:center;border:none;border-radius:1.5rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;line-height:2.625rem;margin:20px 0 30px;font-weight:bold;background-color:#853838;color:var(--white);font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;text-decoration:none;cursor:pointer;}</style>
+  <a class="zeffy-donate" href="https://www.zeffy.com/en-US/donation-form/neccdl-donation" target="_blank" rel="noopener">Donate</a>
 </div>
 {{< /rawhtml >}}
 
