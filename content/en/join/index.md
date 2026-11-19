@@ -19,11 +19,12 @@ Travel costs, team gaps, or uncertainty, we understand. The Exhibition Team opti
 {{< spacer 20 >}}
 
 {{< rawhtml >}}
+<script src="https://zeffy-scripts.s3.ca-central-1.amazonaws.com/embed-form-script.min.js"></script>
 <div style="text-align: center;">
-  <style>.pp-CQ6RAC86LY722{text-align:center;border:none;border-radius:1.5rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#853838;color:var(--white);font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
-  <form action="https://www.paypal.com/ncp/payment/CQ6RAC86LY722" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-    <input class="pp-CQ6RAC86LY722" type="submit" value="Join Now" />
-    <img src=https://www.paypalobjects.com/images/Debit_Credit.svg alt="cards" />
-  </form>
+  <style>.zeffy-join{text-align:center;border:none;border-radius:1.5rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#853838;color:var(--white);font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
+  <button class="zeffy-join" zeffy-form-link="https://www.zeffy.com/embed/ticketing/neccdc--2027?modal=true">Join Now</button>
+  <p style="font-weight:normal;font-size:0.9rem;color:#888;max-width:32rem;margin:1rem auto 0;">
+    The payment platform is free for nonprofits & donation funded. At checkout it will suggest a tip amount. To change it, choose "Other" in the tip dropdown and enter any amount.
+  </p>
 </div>
 {{< /rawhtml >}}

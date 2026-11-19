@@ -14,29 +14,17 @@ Sponsors have a chance for exclusive resume access, participation in the competi
 We would like to welcome and acknowledge our past sponsors who have helped us grow to what we are today. Please contact us if you have been a past sponsor to let us know your thoughts at sponsor@neccdl.org.
 
 ## Funding Options
-Sponsorship funding can be made directly through PayPal, or contact sponsor@neccdl.org to request an invoice or arrange a direct deposit.
+Sponsorship funding can be made directly through Zeffy, or contact sponsor@neccdl.org to request an invoice or arrange a direct deposit.
 
 {{< spacer 5 >}}
 
 {{< rawhtml >}}
-<div class="cards columns-1 custom-form" style="display: block; margin: 20px auto; max-width: 500px;">
-  <div class="card" style="padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 10px; background-color: var(--white);">
-    <div style="text-align: center;">
-      <script
-        src="https://www.paypal.com/sdk/js?client-id=BAAl-Qu4nd66FAjYZPqJb1Em87Luc5p0TC4FYjlxTbmPxELpdYTb46cj12ZnLPxhxcAKyztnqruq5Dsr_g&components=hosted-buttons&enable-funding=venmo&currency=USD">
-      </script>
-      <div id="paypal-container-CTCG2266VR7ZN"></div>
-      <script>
-        paypal.HostedButtons({
-          hostedButtonId: "CTCG2266VR7ZN",
-        }).render("#paypal-container-CTCG2266VR7ZN")
-      </script>
-    </div>
-  </div>
+<script src="https://zeffy-scripts.s3.ca-central-1.amazonaws.com/embed-form-script.min.js"></script>
+<div style="text-align: center; margin: 2.5rem 0;">
+  <style>.zeffy-join{text-align:center;border:none;border-radius:1.5rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#853838;color:var(--white);font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
+  <button class="zeffy-join" zeffy-form-link="https://www.zeffy.com/embed/ticketing/neccdl-sponsor?modal=true">Sponsor</button>
 </div>
 {{< /rawhtml >}}
-
-{{< spacer 10 >}}
 
 ## Benefits
 
